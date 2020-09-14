@@ -1,6 +1,6 @@
 # McDonalds_Menu_Ranked_By_Calories_Tableau
 
-Tableau dashboard that showcases the nutrional values of the McDonalds menu
+Tableau dashboard that showcases the nutritional values of the McDonalds menu
 
 Dataset courtesy of Kaggle.com 
 
